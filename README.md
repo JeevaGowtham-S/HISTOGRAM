@@ -31,6 +31,7 @@ Display the equalized grayscale image.
 ```python
 # Developed By: JEEVAGOWTHAM S
 # Register Number: 212222230053
+
 import cv2
 import matplotlib.pyplot as plt
 Gray_image=cv2.imread('gray.jpg')
@@ -102,6 +103,7 @@ plt.show()
 <br>
 
 ### Histogram Equalization of Grayscale Image
+![Screenshot 2023-09-08 135737](https://github.com/JeevaGowtham-S/HISTOGRAM/assets/118042624/dac46b93-0c30-4d1f-8c40-4a26ce487eeb)
 
 
 
